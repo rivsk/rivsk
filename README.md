@@ -59,5 +59,5 @@ still reading docs before bed
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yourusername&icon=2&color=0" alt="Visitor Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=rivsk&icon=2&color=0" alt="Visitor Count"/>
 </div>
