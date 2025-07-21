@@ -28,7 +28,7 @@
 ```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Recent%20Activity&bg_color=0d1117&color=666666&line=00ff41&point=ffffff&area=true&hide_border=true&theme=github-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?rivsk=rivsk&custom_title=Recent%20Activity&bg_color=0d1117&color=666666&line=00ff41&point=ffffff&area=true&hide_border=true&theme=github-dark" width="100%"/>
 </div>
 
 ---
@@ -44,8 +44,8 @@
 still reading docs before bed
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=666666&icon_color=00ff41&border_color=333333&hide_border=true&include_all_commits=true&custom_title=Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=666666&border_color=333333&hide_border=true&custom_title=Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?rivsk=rivsk&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=666666&icon_color=00ff41&border_color=333333&hide_border=true&include_all_commits=true&custom_title=Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?rivsk=rivsk&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=666666&border_color=333333&hide_border=true&custom_title=Languages" height="150"/>
 </div>
 
 ---
